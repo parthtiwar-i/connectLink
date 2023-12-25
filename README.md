@@ -38,7 +38,7 @@ The code includes error handling to manage cases where there might be issues pro
 4. **Run the Application:**
 
    ```bash
-   node // path to availableTimeSlot.js
+   node availableTimeSlot.js
 
 ## Usage
 Open the testArr.js file.
